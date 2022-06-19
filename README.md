@@ -1,6 +1,7 @@
 # kodluyoruzilkrepo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Git Eğitiminde oluşturduğum ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-![img](https://github.com/mehmetaliyilmaz/kodluyoruzilkrepo/blob/main/figures/kodluyoruzilkrepo.png)
+
+![](https://github.com/mehmetaliyilmaz/kodluyoruzilkrepo/blob/main/figures/kodluyoruzilkrepo.png)
 
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
